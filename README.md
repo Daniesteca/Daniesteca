@@ -1,5 +1,6 @@
 # 💫 About Me:
-¡Hola! Soy  una programadora en constante aprendizaje. Me apasiona el desarrollo de software y disfruto trabajando en equipo para construir productos que faciliten la vida de las personas.
+¡Hola bienvenidos a mi GitHub!
+<br>Soy  una programadora en constante aprendizaje. Me apasiona el desarrollo de software y disfruto trabajando en equipo para construir productos que faciliten la vida de las personas.
 <br>
 Estoy buscando oportunidades para crecer profesionalmente y contribuir a proyectos open-source que me permitan aprender de otros desarrolladores y mejorar mis habilidades.
 <br>
