@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola  y bienvenidos a mi perfil de GitHub <br> Soy una programadora colombiana, apasionada por el desarrollo de software, la resolución de problemas, y el trabajo en equipo, Estoy buscando oportunidades para colaborar en proyectos innovadores,open-source y aprender de la comunidad de desarrolladores. Mi objetivo es adquirir experiencia, aprender y crecer en el mundo de la programación.
+¡Hola  y bienvenidos a mi perfil de GitHub! <br> Soy una programadora colombiana, apasionada por el desarrollo de software, la resolución de problemas, y el trabajo en equipo, Estoy buscando oportunidades para colaborar en proyectos innovadores,open-source y aprender de la comunidad de desarrolladores. Mi objetivo es adquirir experiencia, aprender y crecer en el mundo de la programación.
 
 
 # 💻 Tech Stack:
